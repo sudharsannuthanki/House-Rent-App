@@ -1,5 +1,4 @@
-// Small inline SVG icons - kept dependency-free (no icon library installed).
-// Each icon uses currentColor so it inherits text color, and accepts a size prop.
+
 
 export function IconBuilding({ size = 20 }) {
   return (
